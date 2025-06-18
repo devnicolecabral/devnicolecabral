@@ -18,7 +18,6 @@
   <img align="center" alt="Inteligência Artificial" src="https://img.shields.io/badge/AI-1E1E1E?style=for-the-badge&logoColor=white">
   <img align="center" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white">
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 ---
