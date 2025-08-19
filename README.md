@@ -35,7 +35,6 @@ I'm a enthusiastic about initiatives that involve innovation, impact, and purpos
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" width="20"/>
 
 Sou uma desenvolvedora back-end em início de carreira, apaixonada por Inteligência Artificial e Desenvolvimento de Softwares. Estou trilhando meu caminho para me tornar uma Engenheira de Software, combinando minha experiência em tecnologia com habilidades em manipulação e integração de dados, desenvolvimento de projetos e aprendizado contínuo.
-
 Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um dos meus grandes sonhos é trabalhar com softwares no universo da Fórmula 1, aplicando tecnologia e engenharia para gerar soluções estratégicas em contextos de alta performance e competitividade.
 ---
 
