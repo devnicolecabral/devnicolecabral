@@ -26,18 +26,17 @@
 
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>
 
-I’m a junior back-end developer, passionate about Data Science, Artificial Intelligence, and Software Development. I’m currently paving my path toward becoming a Data Scientist and Software Engineer by combining my experience in technology with skills in data analysis, project development, and continuous learning.
+I'm an early-career back-end developer, passionate about Artificial Intelligence and Software Development. I am pursuing my path to become a Software Engineer, combining my technical background with skills in data manipulation and integration, project development, and continuous learning.
 
-I’m enthusiastic about projects that involve innovation, impact, and purpose. One of my biggest dreams is to work with data in the world of Formula 1, applying artificial intelligence to generate strategic insights in high-performance and highly competitive environments.
+I'm a enthusiastic about initiatives that involve innovation, impact, and purpose. One of my greatest dreams is to work with software in the world of Formula 1, applying technology and engineering to create strategic solutions in contexts of high performance and competitiveness
 
 ---
 
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" width="20"/>
 
-Sou uma desenvolvedora back-end em início de carreira, apaixonada por Data Science, IA e Desenvolvimento de Softwares. Estou trilhando meu caminho para me tornar uma Cientista de Dados e Engenheira de Software, combinando minha experiência em tecnologia com habilidades em análise de dados, desenvolvimento de projetos e aprendizado contínuo.
+Sou uma desenvolvedora back-end em início de carreira, apaixonada por Inteligência Artificial e Desenvolvimento de Softwares. Estou trilhando meu caminho para me tornar uma Engenheira de Software, combinando minha experiência em tecnologia com habilidades em manipulação e integração de dados, desenvolvimento de projetos e aprendizado contínuo.
 
-Sou entusiasta de projetos que envolvem inovação, impacto e propósito. Um dos meus grandes sonhos é trabalhar com dados no universo da Fórmula 1, aplicando inteligência artificial para gerar insights estratégicos em contextos de alta performance e competitividade.
-
+Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um dos meus grandes sonhos é trabalhar com softwares no universo da Fórmula 1, aplicando tecnologia e engenharia para gerar soluções estratégicas em contextos de alta performance e competitividade.
 ---
 
 
