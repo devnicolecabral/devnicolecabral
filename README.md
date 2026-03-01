@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Nicole%20Cabral&fontSize=70&animation=fadeIn)
 ### Hi there 👋, I’m Nicole Cabral 👩‍💻  
 #### Software Engineering and AI for Business Student | Aspiring Fullstack Developer | F1 Enthusiast 🏎️
 
