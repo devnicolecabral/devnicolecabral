@@ -20,8 +20,7 @@ Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um 
 ### My GitHub Stats 📊
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api?username=devnicolecabral&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api/top-langs/?username=devnicolecabral&layout=compact&theme=ocean_dark&hide=django,html,css" />
+  <img width="80%" src="https://metrics.lecoq.io/devnicolecabral?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.limit=8&theme=ocean_dark" />
 </p>
 
 ---
