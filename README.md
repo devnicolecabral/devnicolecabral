@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devnicolecabral@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devnicolecabral/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolecabral&layout=compact&theme=ocean_dark&hide=django)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolecabral&layout=compact&theme=ocean_dark&hide=django,html,css)
 
 ### Technologies 
 <div style="display: inline_block">
