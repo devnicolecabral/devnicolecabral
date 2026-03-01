@@ -24,8 +24,9 @@ Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um 
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devnicolecabral&theme=ocean_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=devnicolecabral&theme=ocean_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devnicolecabral&theme=ocean_dark" />
 </p>
+
 ---
 
 ### Tecnologias que utilizo | Technologies I use
