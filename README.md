@@ -20,12 +20,12 @@ Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um 
 ### My GitHub Stats 📊
 
 <p align="center">
-  <img width="80%" src="https://metrics.lecoq.io/devnicolecabral?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.limit=8&theme=ocean_dark" />
+  <img width="100%" src="https://metrics.lecoq.io/devnicolecabral?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.limit=8&languages.threshold=0%25&theme=ocean_dark" />
 </p>
 
 ---
 
-### Tecnologias que utilizo
+### Tecnologias que utilizo | Technologies I use
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
