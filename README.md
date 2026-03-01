@@ -18,11 +18,16 @@ Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um 
 ---
 
 ### My GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devnicolecabral&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolecabral&layout=compact&theme=ocean_dark&hide=django,html,css" />
-</p>
-
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=devnicolecabral&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolecabral&layout=compact&theme=ocean_dark&hide=django,html,css" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### Tecnologias que utilizo | Technologies I use
