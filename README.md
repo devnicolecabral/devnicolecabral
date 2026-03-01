@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Nicole%20Cabral&fontSize=70&animation=fadeIn)
 ### Hi there 👋, I’m Nicole Cabral 👩‍💻  
 #### Software Engineering and AI for Business Student | Aspiring Fullstack Developer | F1 Enthusiast 🏎️
 
@@ -17,10 +18,14 @@ Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um 
 
 ---
 
-### My GitHub Stats 📊
+### My GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devnicolecabral&theme=ocean_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=devnicolecabral&theme=ocean_dark" />
+</p>
 
 <p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/devnicolecabral?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.limit=8&languages.threshold=0%25&theme=ocean_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devnicolecabral&theme=ocean_dark" />
 </p>
 
 ---
