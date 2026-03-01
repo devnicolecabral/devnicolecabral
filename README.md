@@ -18,10 +18,10 @@ Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um 
 ---
 
 ### My GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devnicolecabral&theme=ocean_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=devnicolecabral&theme=ocean_dark" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devnicolecabral&theme=ocean_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=devnicolecabral&theme=ocean_dark" width="48%" />
+</div>
 
 ---
 
