@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m Nicole Cabral 👩‍💻  
-#### Software Engineering and AI for Business Student | Aspiring Fullstack Developer
+#### Software Engineering and AI for Business Student | Aspiring Fullstack Developer | F1 Enthusiast 🏎️
 
 #
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnicolecabral/)
@@ -12,11 +12,15 @@
 
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>
 
-I am a student of **Software Engineering** and **Artificial Intelligence for Business**. I am pursuing my path to become a **Software Engineer**, combining technical skills in data manipulation, project development, and continuous learning to create innovative and purposeful solutions.
+I am a Software Engineering and Artificial Intelligence for Business student. I am pursuing my path to become a Software Engineer, combining technical skills in data manipulation, project development, and continuous learning to create innovative and purposeful solutions.
+
+I am passionate about initiatives involving innovation, impact, and purpose. One of my greatest dreams is to work with software in the Formula 1 universe, applying technology and engineering to create strategic solutions in high-performance and competitive environments.
 
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" width="20"/>
 
-Sou estudante de **Engenharia de Software** e **Inteligência Artificial para negócios**. Estou trilhando meu caminho para me tornar uma **Engenheira de Software**, combinando habilidades técnicas em manipulação de dados, desenvolvimento de projetos e aprendizado contínuo para criar soluções inovadoras e com propósito.
+Sou estudante de Engenharia de Software e Inteligência Artificial para Negócios. Estou trilhando meu caminho para me tornar uma Engenheira de Software, combinando habilidades técnicas em manipulação de dados, desenvolvimento de projetos e aprendizado contínuo para criar soluções inovadoras e com propósito.
+
+Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um dos meus grandes sonhos é trabalhar com softwares no universo da Fórmula 1, aplicando tecnologia e engenharia para gerar soluções estratégicas em contextos de alta performance e competitividade.
 
 ---
 
