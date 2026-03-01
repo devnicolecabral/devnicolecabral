@@ -27,8 +27,8 @@ Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um 
 ### My GitHub Stats 📊
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnicolecabral&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolecabral&layout=compact&theme=ocean_dark&hide=django,html,css" />
+  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnicolecabral&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />](https://github-readme-stats-sigma-five.vercel.app/api?username=devnicolecabral&show_icons=true&theme=ocean_dark)
+  [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolecabral&layout=compact&theme=ocean_dark&hide=django,html,css" ](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devnicolecabral&layout=compact&theme=ocean_dark&hide=django,html,css)/>
 </p>
 
 ---
