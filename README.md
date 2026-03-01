@@ -13,7 +13,7 @@ I am passionate about initiatives involving innovation, impact, and purpose. One
 
 Sou estudante de **Engenharia de Software** e **Inteligência Artificial para Negócios**. Estou trilhando meu caminho para me tornar uma **Engenheira de Software**, combinando habilidades técnicas em manipulação de dados, desenvolvimento de projetos e aprendizado contínuo para criar soluções inovadoras e com propósito. 
 
-Sou entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um dos meus grandes sonhos é trabalhar com softwares no universo da **Fórmula 1**, aplicando tecnologia e engenharia para gerar soluções estratégicas em contextos de alta performance e competitividade.
+Entusiasta de iniciativas que envolvem inovação, impacto e propósito. Um dos meus grandes sonhos é trabalhar com softwares no universo da **Fórmula 1**, aplicando tecnologia e engenharia para gerar soluções estratégicas em contextos de alta performance e competitividade.
 
 ---
 
